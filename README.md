@@ -2,7 +2,6 @@
 
 Welcome to the Patient Information Management System (PIMS). This project is dedicated to efficiently managing patient information in healthcare settings. Built on Django and powered by SQLite, PIMS offers a robust solution for healthcare data management.
 
-**Note**: This project is an adapted version with all credits belonging to the original developer, Sumit Kumar. It is used solely for educational purposes.
 
 ## Features Added:
 - **Doctor Status Toggle:** Doctors can now easily update their availability status for appointments.
@@ -141,4 +140,4 @@ To create a superuser and access the Django admin site:
 python manage.py createsuperuser
 ```
 
-**Note**: Original Project: [Hospital Management System Django](https://github.com/sumitkumar1503/hospitalmanagement) by Sumit Kumar. This project uses Python with the Django Web Framework, SQLite as the database, and is developed as a web application.
+**Note**:This project uses Python with the Django Web Framework, SQLite as the database, and is developed as a web application.
